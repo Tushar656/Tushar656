@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tushar656
+- 👋 Hi, I’m @Tushar verma
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on web development
