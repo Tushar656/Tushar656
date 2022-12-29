@@ -1,9 +1,5 @@
-![logo](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)
-
 <h1 align="center">Hi 👋, I'm Tushar verma</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar656&label=Profile%20views&color=0e75b6&style=flat" alt="tushar656" /> </p>
 
