@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tushar55755575@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vn6EraUndqVpmcqS-56m8Io8ieeBO09w/view](https://drive.google.com/file/d/1Vn6EraUndqVpmcqS-56m8Io8ieeBO09w/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19VuWRETlTBUgwiX7ZrnPWHM4liWIlKIb/view](https://drive.google.com/file/d/19VuWRETlTBUgwiX7ZrnPWHM4liWIlKIb/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
