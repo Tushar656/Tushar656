@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN stack, React native**
 
-- 👨‍💻 All of my projects are available at [https://tushar656.github.io/Portfolio/](https://tushar656.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://tushar656.github.io/my-portfolio/](https://tushar656.github.io/my-portfolio/)
 
 - 💞️ I’m looking to collaborate on web development
 
